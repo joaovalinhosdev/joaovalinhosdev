@@ -1,10 +1,3 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo23769
-Fork on GitHub8144
 <h1 align="center">Hi 👋, I'm João Pedro Sampaio</h1>
 <h3 align="center">Sou um desenvolvedor back-end java</h3>
 
