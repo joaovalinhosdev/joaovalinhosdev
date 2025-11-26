@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm João Pedro Sampaio</h1>
 <h3 align="center">Sou um desenvolvedor back-end java</h3>
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 Atualmente estudando: **Springboot**
 
-- 📫 How to reach me **joao.valinhos2006@gmail.com**
+- 📫 e-mail para contato: **joao.valinhos2006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
